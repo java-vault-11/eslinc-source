@@ -1,0 +1,8 @@
+[2016-11-21 18:01:49,002] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2016-11-21 18:03:17,984] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2016-11-21 18:04:07,545] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker localhost:9092 (id: 0 rack: null) (state.change.logger)
+[2016-11-21 18:07:37,240] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2016-11-21 18:08:24,928] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2016-11-21 18:09:21,581] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2016-11-21 18:10:02,794] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
+[2016-11-21 18:14:41,642] DEBUG preRegister called. Server=com.sun.jmx.mbeanserver.JmxMBeanServer@66d3c617, name=log4j:logger=state.change.logger (state.change.logger)
