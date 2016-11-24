@@ -6,7 +6,7 @@ KAFKA = kafka
 
 
 just-start-kafka:
-	$(KAFKA_HOME)/bin/$(ZOOKEEPER)-server-start.sh -daemon $(KAFKA_HOME)/config/$(ZOOKEEPER).properties
+	$(KAFKA_HOME)/bin/$(ZOOKEEPER)-server-start.sh -daemon $(KAFKA_HOME)/config/$(ZOOKEEPER).properties && \
 	$(KAFKA_HOME)/bin/$(KAFKA)-server-start.sh -daemon $(KAFKA_HOME)/config/server.properties
 
 start-kafka: just-start-kafka
